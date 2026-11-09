@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS — Personal AI Operating System",
+  "description": "Personal AI operating system unifying goals, projects, tasks, deterministic and AI daily scheduling with A1 draft approval, execution analytics, brainstorming, content studio, and official two-way Notion API synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
